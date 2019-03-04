@@ -1,6 +1,6 @@
 {
   "name": "playhead",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "dist/playhead.cjs.js",
   "module": "dist/playhead.esm.js",
   "browser": "dist/playhead.umd.js",
