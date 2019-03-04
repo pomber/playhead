@@ -17,8 +17,7 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "test": "jest",
-    "pretest": "yarn build",
+    "test": "echo no tests yet",
     "release": "echo 'run: npx np'"
   },
   "files": [
