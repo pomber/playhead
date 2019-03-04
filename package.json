@@ -19,7 +19,7 @@
     "dev": "rollup -c -w",
     "test": "jest",
     "pretest": "yarn build",
-    "release": "np"
+    "release": "echo 'run: npx np'"
   },
   "files": [
     "dist"
